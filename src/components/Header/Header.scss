@@ -1,0 +1,15 @@
+.header {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 48px;
+  background: #D8D8D8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1;
+  & > span {
+    color: #0069A5;
+    font-weight: 700;
+  }
+}

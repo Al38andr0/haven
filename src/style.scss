@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  justify-content: center;
+  padding: 40px 0 0;
+  height: 100%;
+  background: #E7E7E7;
+  font-family: 'Roboto', sans-serif;
+  position: relative;
+  font-size: 14px;
+}
+* {
+  box-sizing: border-box;
+}
+#main-container {
+  margin: 0 auto;
+  background-color: #FFFFFF;
+  border-radius: 4px;
+  box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.25);
+  width: 600px;
+  height: 848px;
+  padding: 12px;
+  overflow: hidden;
+  position: relative;
+  z-index: 2;
+}
